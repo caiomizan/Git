@@ -1,2 +1,3 @@
 alguma coisa
 entendendo o head
+linha conflitanada no ramo master
